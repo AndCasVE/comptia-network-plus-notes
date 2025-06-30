@@ -1,6 +1,4 @@
-# comptia-network-plus-notes
-CompTIA Network+ Study Notes
-
+# CompTIA Network+ Study Notes
 This repository contains structured notes taken on my particitpation of each module of the CompTIA Network+ certification by CyberWorks 2025
 
 ## 📚 Modules Covered
