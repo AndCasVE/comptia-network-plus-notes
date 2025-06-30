@@ -1,6 +1,4 @@
-# CompTIA Network+ (N10-009) Summary Notes
-
-# CompTIA Network+ - Module 1 Notes
+# CompTIA Network+ (N10-009) Notes
 
 # Module 1: Explaining Network Topologies
 
