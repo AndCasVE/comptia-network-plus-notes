@@ -1,6 +1,15 @@
-# Module 2: Cabling
+# Module 2: Supporting Cabling and Physical Installations
 
-- Understand cable needs: Interference and attenuation factors inform the choice between shielded copper or fiber optic cables.
-- Cable preparation: Use the correct tools for terminating cables (e.g., punch down blocks, connectors).
-- Match cables to their intended application to ensure optimal performance.
-- Test cables using appropriate tools to verify integrity and troubleshoot faults.
+## Learning Objectives
+- Summarize Ethernet standards
+- Identify copper and fiber optic cables/connectors
+- Describe structured cabling and physical installation
+- Troubleshoot Ethernet cabling issues
+
+## Key Topics
+- **Ethernet**: IEEE 802.3 standards, CSMA/CD, media types
+- **Copper Cables**: UTP, STP, coaxial, plenum vs. riser
+- **Fiber Cables**: SMF, MMF, WDM, LC/SC/MPO connectors
+- **Cabling Tools**: Termination, wire maps, tone generators
+- **Installations**: Racks, patch panels, temperature, fire suppression
+- **Troubleshooting**: Attenuation, crosstalk, EMI, interference
