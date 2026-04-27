@@ -116,10 +116,3 @@
 3. Why are backup configs part of operational best practice?
 4. What role does SIEM play in network operations?
 5. Name one tool used for packet-level troubleshooting.
-
----
-
-## Suggested Next Steps
-- Convert this guide into flashcards.
-- Add an answer key and scoring rubric.
-- Build a timed 50-question mock exam.
